@@ -1,4 +1,4 @@
-# Credit Card Analysis Project using Power BI and PostgreSQL. This project provided comprehensive insights into credit card transactions and customer behavior, ultimately helping to optimize marketing strategies, enhance customer satisfaction, and improve business performance.
+### Credit Card Analysis Project using Power BI and PostgreSQL. This project provided comprehensive insights into credit card transactions and customer behavior, ultimately helping to optimize marketing strategies, enhance customer satisfaction, and improve business performance.
 
 
 
